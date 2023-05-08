@@ -6,6 +6,15 @@ function App() {
     <div className="App">
       <div className="container">
         <Weather />
+        <div className="footer">
+          This project was coded by Zuzana Zitkova and is open sourced on{' '}
+          <a
+            href="https://github.com/ZuzanaZitkova/react-app-forecast"
+            target="_blank"
+          >
+            Github
+          </a>
+        </div>
       </div>
     </div>
   );
