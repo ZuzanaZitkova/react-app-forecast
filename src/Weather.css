@@ -21,11 +21,12 @@
 
 .Weather canvas {
   margin-right: 10px;
-
+  line-height: 70px;
   margin-top: 20px;
 }
 
 .Weather .temperature {
+  margin-top: -20px;
   font-size: 70px;
   font-weight: 400;
   color: rgb(33, 33, 33);
@@ -34,7 +35,7 @@
 }
 .Weather .unit {
   color: rgb(33, 33, 33);
-  font-size: 16px;
+  font-size: 25px;
   font-weight: 400;
   position: relative;
   line-height: 1;
